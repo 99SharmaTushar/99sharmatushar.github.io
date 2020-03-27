@@ -1,0 +1,174 @@
+body{
+	margin:0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+h1{
+	margin:0;
+	color:#C3073F;
+	font-family: 'Sacramento', cursive;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #950750;
+}
+p{
+	font-size: 20px;
+}
+hr{ width: 5%;
+	border: dotted 7px ;
+	border-bottom-style: none;
+	border-color: #f2ebf1;
+
+}
+a{
+	color: #f7b5d3;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none; 
+	font-size: 20px;
+}
+a:hover{
+	font-size: 35px;
+	color: #eb49cd;
+	font-family: 'Merriweather', serif;
+}
+.First{
+	position: relative;
+	background-color: #1A1A1D;
+	color: #f2dbda;
+	height: 800px;
+	padding-top: 80px;
+
+}
+.second{
+	padding-top: 130px;
+	padding-bottom: 50px;
+
+}
+.third{
+	padding-top: 50px;
+	background: radial-gradient(#ffdef6,white);
+	padding-bottom: 150px;
+}
+.fourth{
+	background-color: #4e4e50;
+	height: 120px;
+	padding-top: 80px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.cloud{
+	height: 200px;
+}
+.contact{
+	margin:70px auto 150px;
+}
+.contact-head{
+	margin: 30px auto;
+}
+.contact-parra{
+	width: 30%;
+	margin: 30px auto 60px;
+}
+.name{
+	width: 20%;
+	margin: 100px auto 0px;
+	font-size: 70px;
+}
+.programmer{
+	margin: 0px;
+}
+.footer-link{
+	padding: 0px 30px;
+}
+.skill-image1{
+	height: 250px;
+	width: 300px;
+	float: left;
+	margin-right: 50px;
+}
+.skill-image2{
+	height: 250px;
+	width: 200px;
+	float: right;
+	margin-left: 50px;
+}
+.skill-parra{
+	line-height: 2;
+}
+.heading{
+	font-size: 70px;
+	margin: 0px auto;
+}
+.skill{
+}
+.skill-row{
+	text-align: left;
+	width: 50%;
+	margin: 50px auto;
+
+}
+.skill-row2{
+	margin: 150px auto 0px;
+}
+.button {
+   border-top: 1px solid #ffffff;
+   background: #416e8a;
+   background: -webkit-gradient(linear, left top, left bottom, from(#2b052b), to(#416e8a));
+   background: -webkit-linear-gradient(top, #2b052b, #416e8a);
+   background: -moz-linear-gradient(top, #2b052b, #416e8a);
+   background: -ms-linear-gradient(top, #2b052b, #416e8a);
+   background: -o-linear-gradient(top, #2b052b, #416e8a);
+   padding: 11.5px 23px;
+   -webkit-border-radius: 18px;
+   -moz-border-radius: 18px;
+   border-radius: 18px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #d96ad9;
+   font-size: 30px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #2b052b;
+   background: #2b052b;
+   color: #f4f5f0;
+   }
+.button:active {
+   border-top-color: #ffffff;
+   background: #ffffff;
+   }
+#bio{
+	width: 26%;
+	margin: 0px auto;
+}
+#cloudone{
+position: absolute;
+right: 320px;
+top: 50px;
+}
+#cloudtwo{
+position: absolute;
+left:320px;
+top: 350px;
+}
+#coder{
+	height: 250px;
+	border-style: solid;
+	border-radius: 20%;
+}
+#road{
+	margin: 100px auto;
+	height: 500px;
+}
+#parra1{
+	color: #f7e0df
+}
+#parra2{
+	text-align: right;
+	color: #e6c0be;
+}
