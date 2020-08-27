@@ -172,3 +172,6 @@ top: 350px;
 	text-align: right;
 	color: #e6c0be;
 }
+@media only screen (max-device-width : 768px) {
+    html,body { display: none; }
+}
